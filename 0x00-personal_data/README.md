@@ -1,5 +1,5 @@
 # 0x05. Personal data
-## Specializations - Web Stack programming ― Backend
+## Specialization - Web Stack programming ― Backend
 
 ## Learnin Objectives
 - Examples of Personally Identifiable Information (PII)
