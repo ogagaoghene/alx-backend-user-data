@@ -2,7 +2,6 @@
 
 Simple HTTP API for playing with `User` model.
 
-
 ## Files
 
 ### `models/`
@@ -28,7 +27,6 @@ $ pip3 install -r requirements.txt
 ```
 $ API_HOST=0.0.0.0 API_PORT=5000 python3 -m api.v1.app
 ```
-
 
 ## Routes
 
